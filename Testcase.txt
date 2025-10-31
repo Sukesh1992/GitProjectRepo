@@ -1,3 +1,4 @@
 validate the add command in Git
 Validate git the commit command in git
 validate the push command in git
+validate the rebase command in git
